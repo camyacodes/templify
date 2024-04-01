@@ -2,9 +2,10 @@ import React, { useState } from 'react';
 import Form from 'react-bootstrap/Form';
 import ListGroup from 'react-bootstrap/ListGroup';
 import { TiDelete } from 'react-icons/ti';
+import { FaAngleDown, FaAngleUp } from 'react-icons/fa'; // Import the arrow icons
 
 const TemplateSearchInput = ({ searchTerm, setSearchTerm, templates, setSelectedTemplate, selectedTemplate, clearSelectedTemplate }) => {
-  const [showDropdown, setShowDropdown] = useState(true);
+  const [showDropdown, setShowDropdown] = useState(false); // Initialize showDropdown to false
 
   const filterTemplates = (term) => templates.filter(template =>
     template.title.toLowerCase().includes(term.toLowerCase())
@@ -12,13 +13,17 @@ const TemplateSearchInput = ({ searchTerm, setSearchTerm, templates, setSelected
 
   const handleChange = (e) => {
     setSearchTerm(e.target.value);
-    setShowDropdown(true);
+    setShowDropdown(true); // Show dropdown when typing in the search input
   };
 
   const handleSelect = (template) => {
     setSelectedTemplate(template);
     setSearchTerm('');
     setShowDropdown(false);
+  };
+
+  const toggleDropdown = () => {
+    setShowDropdown(!showDropdown); // Toggle the dropdown state
   };
 
   const badgeStyle = {
@@ -47,13 +52,38 @@ const TemplateSearchInput = ({ searchTerm, setSearchTerm, templates, setSelected
         </div>
       ) : (
         <>
-          <Form.Control
-            type="text"
-            placeholder="Search Templates"
-            value={searchTerm}
-            onChange={handleChange}
-          />
-          {searchTerm && showDropdown && (
+          <div style={{ position: 'relative' }}>
+            <Form.Control
+              type="text"
+              placeholder="Search Templates"
+              value={searchTerm}
+              onChange={handleChange}
+            />
+            {showDropdown ? (
+              <FaAngleUp
+                style={{
+                  position: 'absolute',
+                  right: '8px',
+                  top: '50%',
+                  transform: 'translateY(-50%)',
+                  cursor: 'pointer',
+                }}
+                onClick={toggleDropdown}
+              />
+            ) : (
+              <FaAngleDown
+                style={{
+                  position: 'absolute',
+                  right: '8px',
+                  top: '50%',
+                  transform: 'translateY(-50%)',
+                  cursor: 'pointer',
+                }}
+                onClick={toggleDropdown}
+              />
+            )}
+          </div>
+          {showDropdown && ( // Only show the dropdown menu when showDropdown is true
             <ListGroup style={{ maxHeight: '8rem', overflowY: 'scroll' }}>
               {filterTemplates(searchTerm).map((template) => (
                 <ListGroup.Item key={template.id} action onClick={() => handleSelect(template)}>
