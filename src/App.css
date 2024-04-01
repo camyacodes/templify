@@ -1,5 +1,22 @@
 .App {
   text-align: center;
+  background-color: #fff;
+}
+
+/* custom.css */
+.form-control, .form-select, .form-check-input {
+  background-color: whitesmoke !important; /* Use !important to ensure override */
+}
+
+/* App.css */
+.app-container {
+  max-width: 960px; /* Example max width */
+  max-height: 90vh; /* Example max height, vh is a percentage of the viewport height */
+  margin: auto; /* Center the container */
+  padding: 20px; /* Add some padding inside the container */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Example drop shadow */
+  overflow: auto; /* Add scroll to the container if the content exceeds its max height */
+  background-color: #fff; /* Ensure the background is white (or any color you prefer) */
 }
 
 .App-logo {
@@ -27,6 +44,13 @@
 .App-link {
   color: #61dafb;
 }
+
+#email_btn {
+  background-color: #ffcc33; /* Changes the background color of the button */
+  color: #000; /* Optional: Change the text color to ensure it's visible on the new background */
+  border-color: #ffcc33; /* Optional: Change the border color to match the background */
+}
+
 
 @keyframes App-logo-spin {
   from {

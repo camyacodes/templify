@@ -1,0 +1,119 @@
+[
+  {
+    "id": "1",
+    "title": "DPO, C/O, OR NORM",
+    "body": "To complete a set up for a DPO or Care Of, we require a signed purchase order for all states but Alabama, a tax certificate, and Accounts Payable contact information (name, number, and email) for the entity. If it is not a DPO or a Care Of account set up, a signed purchase order will suffice in lieu of an online application along with contact information (name, number, and email). Once the information and documents have been collected and sent to Angelia Crocker (Angelia.Crocker@whitecap.com) and the DPO Team (wcdpo@whitecap.com), we will proceed with the account set up. Please let me know if you have any questions."
+  },
+  {
+    "id": "2",
+    "title": "Escalations",
+    "body": "Based on ____________________, my recommendation is that this app should be (approved/declined). Please review the information provided either attached or below, and let me know the most suitable course of action for this app."
+  },
+  {
+    "id": "3",
+    "title": "Legal Status Account",
+    "body": "Hi Nicole, \n\nAccount Number: \n\nAccount Name: \n\nThe status of this account is currently marked as 'Legal'. Could you kindly verify if there is any remaining balance that needs to be addressed? Also, any additional details that might be crucial for the ongoing processing would be greatly appreciated."
+  },
+  {
+    "id": "4",
+    "title": "Outstanding Balance",
+    "body": "Hello, \n\nWe have received your credit application and upon further research, we have found an existing account with an outstanding balance of $. To begin processing your application for reactivation, this balance must be paid in full. I have included your Credit Manager in this email for any questions you might have. \n\nThank you."
+  },
+  {
+    "id": "5",
+    "title": "App Status Inquiry (External & Internal)",
+    "body": "Hello, \n\nThe application has been received and is currently pending processing. Our dedicated team processes all applications in the order they are received and within 72 business hours of receipt. \n\nIf you have a pending order and need expedited processing, please reach out to the Supervisor of the New Accounts Team (Chelsea Hart | Chelsea.Hart@Whitecap.com) and attach a White Cap quote of your pending order (as applicable) so your credit application may be urgently processed. \n\nThank you."
+  },
+  {
+    "id": "6",
+    "title": "Tax Exemption",
+    "body": "Hello, \n\nCan you kindly assist with getting a tax exemption for the account mentioned below? The tax certificate is attached. \n\nAccount Number: \n\nAccount Name: \n\nIf you have any questions, please don’t hesitate to reach out. \n\nThank you for your cooperation."
+  },
+  {
+    "id": "7",
+    "title": "C/O & DPO for Credit Manager",
+    "body": "Hello, \n\nPlease review the attached document and adjust the credit limit accordingly. If you have any questions, please don’t hesitate to reach out. \n\nThank you."
+  },
+  {
+    "id": "8",
+    "title": "Out of Office – Standard – Internal",
+    "body": "Hello, \n\nI am currently out of the office and will be returning on (return date). In my absence, please direct your inquiries to the following contacts: \n\nEmail: creditapplications@whitecap.com \n\nNew Accounts Credit Department Hotline: 888-888-6087 (Option 3, Option 3, Option 1) \n\nFor checking the status of an application, please visit the following link: \n\n[WC Account Services - Credit Application Status - https://whtcp.sharepoint.com/sites/wc-fin-as/Lists/Credit%20Application%20Status/AllItems.aspx \n\nThank you for your understanding, and I apologize for any inconvenience this may cause."
+  },
+  {
+    "id": "9",
+    "title": "Asking an AM for Insight About a Customer",
+    "body": "Hello, \n\nI am currently working on a credit application submitted by the company __COMPANY NAME here___, and I see you are the Account Manager listed. I am reaching out to get some better insight into the potential of this business as I am concerned about the credit reporting available for them. ___provide additional info about app as you see fit___. \n\nDo you have any other data that can speak to the reputation of this company? What kind of materials are they interested in purchasing and could a Jobs-Only acct suffice?"
+  },
+  {
+    "id": "10",
+    "title": "Received Credit App From an Acquired Company",
+    "body": "Hello, \n\nUnfortunately, we are unable to process this Credit Application. If the customer wants an account with White Cap, please assist them with the following options. \n\n1.) If the customer wants to crossover their account from an acquired company’s system to White Cap’s system, please submit a Crossover Form. Please see attached. \n\n2.) If the customer wants to apply directly for White Cap, please have them apply online. \n\nhttps://equifax-6070.my.salesforce-sites.com/"
+  },
+  {
+    "id": "11",
+    "title": "Business Less Than 2 Years – Cannot Provide PG – Has Parent Company",
+    "body": "Hello, \n\nThank you for providing that information. Given those circumstances, there are 2 options for us to proceed with processing your credit application. \n\n1. Does your parent company have an active account with White Cap? If so, please advise me of the account number. We may be able to approve your application based on your affiliation with an active existing account. \n\n2. Would your parent company be willing to co-sign for this account? If yes, please fill out and return the attached Cross-Corporate Guarantee Form which will allow us to process the application based on the reporting of your more-established parent company. \n\nOur company policy states we will need to have a Personal Guarantee for all credit accounts where the business is less than 2 years of age. We will need to explore one of the above options to proceed with your terms account."
+  },
+  {
+    "id": "12",
+    "title": "Similar Information",
+    "body": "Hello, \n\nWhile reviewing your credit application, I came across an existing account that shares similar details. Could you please confirm if you have any association with the business named “BUSINESS NAME” located at “ADDRESS”, and if so, can you please specify the connection with the businesses? If this application is to update the account due to change in ownership or business name, please indicate. \n\nPlease let me know at your earliest convenience so I may proceed with processing your application. If you have any questions, please let me know. \n\nThank you!"
+  },
+  {
+    "id": "13",
+    "title": "Existing Active Account",
+    "body": "Hello, \n\nIt appears that you already have an existing White Cap terms account for your business. We have added your Account Services Credit Manager to help you with the next steps. We will review your application to update the information on your existing account as needed. \n\nThank you."
+
+  },
+  {
+    "id": "14",
+    "title": "Asking CM for Insight on Existing Account",
+    "body": "Hello, \n\nWe have found an existing/related account for the customer that recently submitted a credit application. Please review Account Number ____ and provide feedback as to whether this customer should be reactivated and/or approved for a new account. Thank you in advance for your insight."
+  },
+  {
+    "id": "15",
+    "title": "Confirm Business Name",
+    "body": "Hello, \n\nThank you for applying for a White Cap Credit Account. We look forward to doing business with you soon. I will be processing your application and will need the following information to proceed. \n\nThe credit reporting for your business indicates there may be a different name that your business goes by. To clear up this potential discrepancy, please advise us of the full legal name of your business. If the name provided on the application is accurate and there are no other possible names your business has gone by, please confirm so I may proceed. \n\nThank you and please let me know if you have any questions."
+  },
+  {
+    "id": "16",
+    "title": "PG (Personal Guarantor)",
+    "body": "Hello, \n\nThank you for applying for a White Cap Credit Account. We look forward to doing business with you soon. I am currently processing your application and will need the following information to proceed. \n\nUpon review, we’ve determined that a Personal Guarantor is required for establishing a credit account with White Cap. \n\nA Personal Guarantor is mandatory for a Credit Account if the applicant meets one or more of the following conditions: \n\n- The company applying for credit is less than two years old. \n\n- The entity type of the business is Sole Proprietorship. \n\nPlease provide the requested information (__/__/____) so I may complete the processing of your application. \n\nThank you and please let me know if you have any questions."
+  },
+  {
+    "id": "17",
+    "title": "Lien/Judgment Release",
+    "body": "Hello, \n\nThank you for applying for a White Cap Credit Account. We look forward to doing business with you soon. I am currently processing your application and will need the following information to proceed. \n\nThe Equifax report for your business showed open lien(s). Please review the attached snippets of the lien(s) in question and provide the release documentation to show the lien(s) have been satisfied. \n\nFor additional information on the lien(s) or if you believe the reporting is in error, please contact Equifax directly at 1-800-727-8495. \n\nPlease provide the requested information (__/__/____) so I may complete the processing of your application. \n\nThank you and please let me know if you have any questions."
+  },
+  {
+    "id": "18",
+    "title": "Business License",
+    "body": "Hello, \n\nThank you for applying for a White Cap Credit Account. We look forward to doing business with you soon. I am currently processing your application and will need the following information to proceed. \n\nWe were unable to locate an active Business License for your company. Please provide documentation which shows your business is active and registered with the Secretary Of State. We can also accept the documentation that shows you were assigned a Tax EIN for your business. \n\nPlease provide the requested information (__/__/____) so I may complete the processing of your application. \n\nThank you and please let me know if you have any questions."
+  },
+  {
+    "id": "19",
+    "title": "PG Credit Freeze",
+    "body": "Hello, \n\nThank you for applying for a White Cap Credit Account. We look forward to doing business with you soon. I am currently processing your application and will need the following information to proceed. \n\nThere appears to be a security freeze on the Personal Guarantor’s credit, which is preventing the processing of the Personal Guarantee’s Equifax Report. Please have this hold lifted and reply to this email once complete. \n\nPlease provide the requested information (__/__/____) so I may complete the processing of your application. \n\nThank you and please let me know if you have any questions."
+  },
+  {
+    "id": "20",
+    "title": "PG Signature",
+    "body": "Hello, \n\nThank you for applying for a White Cap Credit Account. We look forward to doing business with you soon. I am currently processing your application and will need the following information to proceed. \n\nPersonal Guarantor Signature Needed– The Personal Guarantor section of your application was missing a mandatory signature. Please see your credit application attached and have the Personal Guarantor provide their full legal signature and re-fill out the Social Security Number field (in place of the asterisks). \n\nPlease provide the requested information (__/__/____) so I may complete the processing of your application. \n\nThank you and please let me know if you have any questions."
+  },
+  {
+    "id": "21",
+    "title": "PG Invalid Info",
+    "body": "Hello, \n\nThank you for applying for a White Cap Credit Account. We look forward to doing business with you soon. I am currently processing your application and will need the following correction made to proceed. \n\nPersonal Guarantor Correction Needed– We were unable to populate the necessary credit reporting for the individual listed in the Personal Guarantor section of your application. The error we received stated that some of their information was invalid and/or insufficient. \n\nPlease provide the requested information (__/__/____) so I may complete the processing of your application. \n\nThank you and please let me know if you have any questions."
+  },
+  {
+    "id": "22",
+    "title": "PG SSN",
+    "body": "Hello, \n\nThank you for applying for a White Cap Credit Account. We look forward to doing business with you soon. I am currently processing your application and will need the following correction made to proceed. \n\nPersonal Guarantor Social Security Number - The Personal Guarantor section of the application is missing a valid social security number. This information will be required for the account. \n\nOur email server is secure but if you don’t wish to provide the information in response to this email, you may call me directly at ###-###-####. \n\nPlease provide the requested information (__/__/____) so I may complete the processing of your application. \n\nThank you and please let me know if you have any questions."
+  },
+  {
+    "id": "23",
+    "title": "Shipping Address",
+    "body": "Hello, \n\nThank you for applying for a White Cap Credit Account. We look forward to doing business with you soon. I am currently processing your application and will need the following information to proceed. \n\nValid Shipping Address – We require a valid shipping address for the creation of a White Cap terms account. \n\nPlease provide the requested information (__/__/____) so I may complete the processing of your application. \n\nThank you and please let me know if you have any questions."
+  }
+]
+
