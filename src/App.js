@@ -4,7 +4,6 @@ import Header from "./components/Header";
 import CompanyNameInput from "./components/CompanyNameInput";
 import TemplateSearchInput from "./components/TemplateSearchInput";
 import TemplateDisplay from "./components/TemplateDisplay";
-import SubjectLine from "./components/SubjectLine";
 import OutlookButton from "./components/OutlookButton";
 import { customizeTemplate } from "./components/utilities";
 import templates from "./templates.json";
@@ -37,8 +36,6 @@ function App() {
     setEmailBody(newText);
   };
 
-  <SubjectLine companyName={companyName} />
-
   return (
     <div className="App">
       <Header />
@@ -54,7 +51,7 @@ function App() {
           clearSelectedTemplate={clearTemplateSelection}
         />
         <TemplateDisplay templateText={customizedText} onTextChange={handleEmailBodyChange} />
-        <OutlookButton subject={`${companyName.toUpperCase()} - White Cap Credit Application - Additional Information Required`} body={emailBody} />
+        <OutlookButton subject={`${companyName.toUpperCase()}`} body={emailBody} />
       </div>
     </div>
   );

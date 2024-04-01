@@ -10,7 +10,7 @@ const OutlookButton = ({ subject, body }) => {
   const mailtoLink = `mailto:?subject=${encodedSubject}&body=${encodedBody}`;
 
   return (
-    <a href={mailtoLink} id="email_btn" className="btn mt-3" style={{ backgroundColor: '#ffcc33', color: '#000', borderColor: '#ffcc33' }}>Open in Outlook</a>
+    <a href={mailtoLink} id="email_btn" className="btn mt-3" style={{ backgroundColor: '#ffcc33', color: '#000', borderColor: '#ffcc33' }}>Open in Email</a>
   );
 };
 
