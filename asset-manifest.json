@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/templify/static/css/main.59b4bcfe.css",
-    "main.js": "/templify/static/js/main.f311b81c.js",
+    "main.js": "/templify/static/js/main.e999d3cc.js",
     "static/js/453.a0c7c1ae.chunk.js": "/templify/static/js/453.a0c7c1ae.chunk.js",
     "index.html": "/templify/index.html",
     "main.59b4bcfe.css.map": "/templify/static/css/main.59b4bcfe.css.map",
-    "main.f311b81c.js.map": "/templify/static/js/main.f311b81c.js.map",
+    "main.e999d3cc.js.map": "/templify/static/js/main.e999d3cc.js.map",
     "453.a0c7c1ae.chunk.js.map": "/templify/static/js/453.a0c7c1ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59b4bcfe.css",
-    "static/js/main.f311b81c.js"
+    "static/js/main.e999d3cc.js"
   ]
 }
