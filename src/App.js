@@ -19,7 +19,12 @@ function App() {
     if (template) {
       setSelectedTemplate(template);
       setSearchTerm("");
-      const newText = companyName ? customizeTemplate(template.body, companyName) : template.body;
+      const newText = companyName
+        ? customizeTemplate(
+            template.body.replace("[COMPANY_NAME]", companyName),
+            companyName
+          )
+        : template.body;
       setCustomizedText(newText);
       setEmailBody(newText);
     }
@@ -40,8 +45,11 @@ function App() {
     <div className="App">
       <Header />
       <div className="app-container shadow">
-        <CompanyNameInput companyName={companyName} setCompanyName={setCompanyName} />
-        
+        <CompanyNameInput
+          companyName={companyName}
+          setCompanyName={setCompanyName}
+        />
+
         <TemplateSearchInput
           searchTerm={searchTerm}
           setSearchTerm={setSearchTerm}
@@ -50,8 +58,14 @@ function App() {
           setSelectedTemplate={handleTemplateSelection}
           clearSelectedTemplate={clearTemplateSelection}
         />
-        <TemplateDisplay templateText={customizedText} onTextChange={handleEmailBodyChange} />
-        <OutlookButton subject={`${companyName.toUpperCase()}`} body={emailBody} />
+        <TemplateDisplay
+          templateText={customizedText}
+          onTextChange={handleEmailBodyChange}
+        />
+        <OutlookButton
+          subject={`${companyName.toUpperCase()}`}
+          body={emailBody}
+        />
       </div>
     </div>
   );

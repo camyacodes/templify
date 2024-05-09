@@ -12,7 +12,7 @@
   {
     "id": "3",
     "title": "Legal Status Account",
-    "body": "Hi Nicole, \n\nAccount Number: \n\nAccount Name: \n\nThe status of this account is currently marked as 'Legal'. Could you kindly verify if there is any remaining balance that needs to be addressed? Also, any additional details that might be crucial for the ongoing processing would be greatly appreciated."
+    "body": "Hi Nicole, \n\nAccount Number: \n\n[COMPANY_NAME]: \n\nThe status of this account is currently marked as 'Legal'. Could you kindly verify if there is any remaining balance that needs to be addressed? Also, any additional details that might be crucial for the ongoing processing would be greatly appreciated."
   },
   {
     "id": "4",
@@ -27,7 +27,7 @@
   {
     "id": "6",
     "title": "Tax Exemption",
-    "body": "Hello, \n\nCan you kindly assist with getting a tax exemption for the account mentioned below? The tax certificate is attached. \n\nAccount Number: \n\nAccount Name: \n\nIf you have any questions, please don’t hesitate to reach out. \n\nThank you for your cooperation."
+    "body": "Hello, \n\nPlease assist with getting a tax exemption for the account mentioned."
   },
   {
     "id": "7",
@@ -42,7 +42,7 @@
   {
     "id": "9",
     "title": "Asking an AM for Insight About a Customer",
-    "body": "Hello, \n\nI am currently working on a credit application submitted by the company __COMPANY NAME here___, and I see you are the Account Manager listed. I am reaching out to get some better insight into the potential of this business as I am concerned about the credit reporting available for them. ___provide additional info about app as you see fit___. \n\nDo you have any other data that can speak to the reputation of this company? What kind of materials are they interested in purchasing and could a Jobs-Only acct suffice?"
+    "body": "Hello, \n\nI am currently working on a credit application submitted by the company [COMPANY_NAME], and I see you are the Account Manager listed. I am reaching out to get some better insight into the potential of this business as I am concerned about the credit reporting available for them. ___provide additional info about app as you see fit___. \n\nDo you have any other data that can speak to the reputation of this company? What kind of materials are they interested in purchasing and could a Jobs-Only acct suffice?"
   },
   {
     "id": "10",
@@ -63,7 +63,6 @@
     "id": "13",
     "title": "Existing Active Account",
     "body": "Hello, \n\nIt appears that you already have an existing White Cap terms account for your business. We have added your Account Services Credit Manager to help you with the next steps. We will review your application to update the information on your existing account as needed. \n\nThank you."
-
   },
   {
     "id": "14",
@@ -116,4 +115,3 @@
     "body": "Hello, \n\nThank you for applying for a White Cap Credit Account. We look forward to doing business with you soon. I am currently processing your application and will need the following information to proceed. \n\nValid Shipping Address – We require a valid shipping address for the creation of a White Cap terms account. \n\nPlease provide the requested information (__/__/____) so I may complete the processing of your application. \n\nThank you and please let me know if you have any questions."
   }
 ]
-

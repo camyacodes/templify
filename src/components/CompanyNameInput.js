@@ -1,5 +1,5 @@
-import React from 'react';
-import Form from 'react-bootstrap/Form';
+import React from "react";
+import Form from "react-bootstrap/Form";
 
 const CompanyNameInput = ({ companyName, setCompanyName }) => {
   // Function to handle form submission
@@ -9,11 +9,11 @@ const CompanyNameInput = ({ companyName, setCompanyName }) => {
 
   return (
     <Form className="mb-3" controlId="companyName" onSubmit={handleSubmit}>
-      <Form.Control 
-        type="text" 
-        placeholder="Enter company name" 
-        value={companyName} 
-        onChange={(e) => setCompanyName(e.target.value)}
+      <Form.Control
+        type="text"
+        placeholder="Enter company name"
+        value={companyName}
+        onChange={(e) => setCompanyName(e.target.value.toUpperCase())}
       />
     </Form>
   );
