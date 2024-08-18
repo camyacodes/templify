@@ -1,117 +1,157 @@
 [
   {
     "id": "1",
-    "title": "DPO, C/O, OR NORM",
-    "body": "To complete a set up for a DPO or Care Of, we require a signed purchase order for all states but Alabama, a tax certificate, and Accounts Payable contact information (name, number, and email) for the entity. If it is not a DPO or a Care Of account set up, a signed purchase order will suffice in lieu of an online application along with contact information (name, number, and email). Once the information and documents have been collected and sent to Angelia Crocker (Angelia.Crocker@whitecap.com) and the DPO Team (wcdpo@whitecap.com), we will proceed with the account set up. Please let me know if you have any questions."
+    "title": "Required Documents for Account Setup",
+    "body": "To complete the setup for your account, we require the following documents: a signed purchase order, a tax certificate, and Accounts Payable contact information (name, phone number, and email). Please submit the required documents to our team. Once received, we will proceed with setting up your account. Please let us know if you have any questions."
   },
   {
     "id": "2",
-    "title": "Escalations",
-    "body": "Based on ____________________, my recommendation is that this app should be (approved/declined). Please review the information provided either attached or below, and let me know the most suitable course of action for this app."
+    "title": "App Review and Recommendation",
+    "body": "Based on the information provided, my recommendation is that this application should be (approved/declined). Please review the details provided below or in the attached documents and let me know the most suitable course of action."
   },
   {
     "id": "3",
-    "title": "Legal Status Account",
-    "body": "Hi Nicole, \n\nAccount Number: \n\n[COMPANY_NAME]: \n\nThe status of this account is currently marked as 'Legal'. Could you kindly verify if there is any remaining balance that needs to be addressed? Also, any additional details that might be crucial for the ongoing processing would be greatly appreciated."
+    "title": "Legal Status Inquiry",
+    "body": "Hi [RECIPIENT_NAME], \n\nAccount Number: \n\n[COMPANY_NAME]: \n\nThe status of this account is currently marked as 'Legal'. Could you please verify if there is any remaining balance that needs to be addressed? Any additional details that might be crucial for the ongoing processing would be greatly appreciated."
   },
   {
     "id": "4",
-    "title": "Outstanding Balance",
-    "body": "Hello, \n\nWe have received your credit application and upon further research, we have found an existing account with an outstanding balance of $. To begin processing your application for reactivation, this balance must be paid in full. I have included your Credit Manager in this email for any questions you might have. \n\nThank you."
+    "title": "Outstanding Balance on Existing Account",
+    "body": "Hello, \n\nWe have received your application and upon further review, we found that there is an existing account with an outstanding balance. To proceed with reactivating your account, this balance must be paid in full. Please reach out to your Credit Manager for any questions. \n\nThank you."
   },
   {
     "id": "5",
-    "title": "App Status Inquiry (External & Internal)",
-    "body": "Hello, \n\nThe application has been received and is currently pending processing. Our dedicated team processes all applications in the order they are received and within 72 business hours of receipt. \n\nIf you have a pending order and need expedited processing, please reach out to the Supervisor of the New Accounts Team (Chelsea Hart | Chelsea.Hart@Whitecap.com) and attach a White Cap quote of your pending order (as applicable) so your credit application may be urgently processed. \n\nThank you."
+    "title": "Application Status Inquiry",
+    "body": "Hello, \n\nYour application has been received and is currently pending processing. We process all applications in the order they are received and aim to do so within 72 business hours. \n\nIf you have an urgent order, please contact us with your order details for expedited processing. \n\nThank you."
   },
   {
     "id": "6",
-    "title": "Tax Exemption",
-    "body": "Hello, \n\nPlease assist with getting a tax exemption for the account mentioned."
+    "title": "Tax Exemption Request",
+    "body": "Hello, \n\nPlease assist with obtaining a tax exemption for the account mentioned."
   },
   {
     "id": "7",
-    "title": "C/O & DPO for Credit Manager",
+    "title": "Credit Limit Adjustment Request",
     "body": "Hello, \n\nPlease review the attached document and adjust the credit limit accordingly. If you have any questions, please don’t hesitate to reach out. \n\nThank you."
   },
   {
     "id": "8",
-    "title": "Out of Office – Standard – Internal",
-    "body": "Hello, \n\nI am currently out of the office and will be returning on (return date). In my absence, please direct your inquiries to the following contacts: \n\nEmail: creditapplications@whitecap.com \n\nNew Accounts Credit Department Hotline: 888-888-6087 (Option 3, Option 3, Option 1) \n\nFor checking the status of an application, please visit the following link: \n\n[WC Account Services - Credit Application Status - https://whtcp.sharepoint.com/sites/wc-fin-as/Lists/Credit%20Application%20Status/AllItems.aspx \n\nThank you for your understanding, and I apologize for any inconvenience this may cause."
+    "title": "Out of Office Notification",
+    "body": "Hello, \n\nI am currently out of the office and will be returning on (return date). In my absence, please direct your inquiries to the following contacts: \n\nEmail: [CONTACT_EMAIL] \n\nFor checking the status of an application, please visit the following link: [STATUS_LINK] \n\nThank you for your understanding, and I apologize for any inconvenience this may cause."
   },
   {
     "id": "9",
-    "title": "Asking an AM for Insight About a Customer",
-    "body": "Hello, \n\nI am currently working on a credit application submitted by the company [COMPANY_NAME], and I see you are the Account Manager listed. I am reaching out to get some better insight into the potential of this business as I am concerned about the credit reporting available for them. ___provide additional info about app as you see fit___. \n\nDo you have any other data that can speak to the reputation of this company? What kind of materials are they interested in purchasing and could a Jobs-Only acct suffice?"
+    "title": "Request for Customer Insight",
+    "body": "Hello, \n\nI am currently working on an application submitted by [COMPANY_NAME], and I see you are the Account Manager listed. I am reaching out to get some better insight into this business as I have some concerns regarding the credit reporting available for them. \n\nDo you have any additional data that can speak to the reputation of this company? What kind of products or services are they interested in? \n\nThank you for your assistance."
   },
   {
     "id": "10",
-    "title": "Received Credit App From an Acquired Company",
-    "body": "Hello, \n\nUnfortunately, we are unable to process this Credit Application. If the customer wants an account with White Cap, please assist them with the following options. \n\n1.) If the customer wants to crossover their account from an acquired company’s system to White Cap’s system, please submit a Crossover Form. Please see attached. \n\n2.) If the customer wants to apply directly for White Cap, please have them apply online. \n\nhttps://equifax-6070.my.salesforce-sites.com/"
+    "title": "Processing Credit Application from an Acquired Company",
+    "body": "Hello, \n\nWe are unable to process this Credit Application as submitted. If the customer wants to transition their account from an acquired company’s system, please submit a Crossover Form (see attached). Alternatively, they may apply directly through our online portal. \n\n[LINK TO APPLICATION]"
   },
   {
     "id": "11",
-    "title": "Business Less Than 2 Years – Cannot Provide PG – Has Parent Company",
-    "body": "Hello, \n\nThank you for providing that information. Given those circumstances, there are 2 options for us to proceed with processing your credit application. \n\n1. Does your parent company have an active account with White Cap? If so, please advise me of the account number. We may be able to approve your application based on your affiliation with an active existing account. \n\n2. Would your parent company be willing to co-sign for this account? If yes, please fill out and return the attached Cross-Corporate Guarantee Form which will allow us to process the application based on the reporting of your more-established parent company. \n\nOur company policy states we will need to have a Personal Guarantee for all credit accounts where the business is less than 2 years of age. We will need to explore one of the above options to proceed with your terms account."
+    "title": "Options for Businesses Less Than 2 Years Old",
+    "body": "Hello, \n\nThank you for providing the information. Given the circumstances, there are 2 options for proceeding with your credit application: \n\n1. Does your parent company have an active account with us? If so, please provide the account number. We may be able to approve your application based on this affiliation. \n\n2. Would your parent company be willing to co-sign for this account? If yes, please complete the attached Cross-Corporate Guarantee Form. \n\nPlease let us know how you would like to proceed."
   },
   {
     "id": "12",
-    "title": "Similar Information",
-    "body": "Hello, \n\nWhile reviewing your credit application, I came across an existing account that shares similar details. Could you please confirm if you have any association with the business named “BUSINESS NAME” located at “ADDRESS”, and if so, can you please specify the connection with the businesses? If this application is to update the account due to change in ownership or business name, please indicate. \n\nPlease let me know at your earliest convenience so I may proceed with processing your application. If you have any questions, please let me know. \n\nThank you!"
+    "title": "Existing Account Information Verification",
+    "body": "Hello, \n\nWhile reviewing your application, we noticed there is an existing account that shares similar details. Could you please confirm if you have any association with the business named [BUSINESS_NAME] located at [ADDRESS]? If this application is to update the account due to a change in ownership or business name, please indicate. \n\nPlease let us know at your earliest convenience so we may proceed with processing your application."
   },
   {
     "id": "13",
-    "title": "Existing Active Account",
-    "body": "Hello, \n\nIt appears that you already have an existing White Cap terms account for your business. We have added your Account Services Credit Manager to help you with the next steps. We will review your application to update the information on your existing account as needed. \n\nThank you."
+    "title": "Existing Account Notification",
+    "body": "Hello, \n\nIt appears that you already have an active account with us. We will review your application to update the information on your existing account as needed. \n\nThank you."
   },
   {
     "id": "14",
-    "title": "Asking CM for Insight on Existing Account",
-    "body": "Hello, \n\nWe have found an existing/related account for the customer that recently submitted a credit application. Please review Account Number ____ and provide feedback as to whether this customer should be reactivated and/or approved for a new account. Thank you in advance for your insight."
+    "title": "Request for Insight on Existing Account",
+    "body": "Hello, \n\nWe found an existing/related account for the customer who recently submitted a credit application. Please review Account Number [ACCOUNT_NUMBER] and provide feedback on whether this customer should be reactivated and/or approved for a new account. Thank you in advance for your insight."
   },
   {
     "id": "15",
     "title": "Confirm Business Name",
-    "body": "Hello, \n\nThank you for applying for a White Cap Credit Account. We look forward to doing business with you soon. I will be processing your application and will need the following information to proceed. \n\nThe credit reporting for your business indicates there may be a different name that your business goes by. To clear up this potential discrepancy, please advise us of the full legal name of your business. If the name provided on the application is accurate and there are no other possible names your business has gone by, please confirm so I may proceed. \n\nThank you and please let me know if you have any questions."
+    "body": "Hello, \n\nThank you for applying for a credit account with us. We look forward to doing business with you. We are processing your application and need to verify the full legal name of your business. If the name provided on the application is accurate and there are no other possible names your business has gone by, please confirm so we may proceed. \n\nThank you and please let us know if you have any questions."
   },
   {
     "id": "16",
-    "title": "PG (Personal Guarantor)",
-    "body": "Hello, \n\nThank you for applying for a White Cap Credit Account. We look forward to doing business with you soon. I am currently processing your application and will need the following information to proceed. \n\nUpon review, we’ve determined that a Personal Guarantor is required for establishing a credit account with White Cap. \n\nA Personal Guarantor is mandatory for a Credit Account if the applicant meets one or more of the following conditions: \n\n- The company applying for credit is less than two years old. \n\n- The entity type of the business is Sole Proprietorship. \n\nPlease provide the requested information (__/__/____) so I may complete the processing of your application. \n\nThank you and please let me know if you have any questions."
+    "title": "Personal Guarantor Required",
+    "body": "Hello, \n\nThank you for applying for a credit account with us. We are currently processing your application and determined that a Personal Guarantor is required to establish the account. A Personal Guarantor is mandatory if the applicant meets one or more of the following conditions: \n\n- The company applying for credit is less than two years old. \n\n- The business is a Sole Proprietorship. \n\nPlease provide the requested information so we may complete the processing of your application."
   },
   {
     "id": "17",
-    "title": "Lien/Judgment Release",
-    "body": "Hello, \n\nThank you for applying for a White Cap Credit Account. We look forward to doing business with you soon. I am currently processing your application and will need the following information to proceed. \n\nThe Equifax report for your business showed open lien(s). Please review the attached snippets of the lien(s) in question and provide the release documentation to show the lien(s) have been satisfied. \n\nFor additional information on the lien(s) or if you believe the reporting is in error, please contact Equifax directly at 1-800-727-8495. \n\nPlease provide the requested information (__/__/____) so I may complete the processing of your application. \n\nThank you and please let me know if you have any questions."
+    "title": "Lien/Judgment Release Documentation",
+    "body": "Hello, \n\nThank you for applying for a credit account with us. We are currently processing your application and found open lien(s) in the report for your business. Please review the attached documentation and provide the necessary release papers showing the lien(s) have been satisfied. \n\nFor additional information or if you believe the reporting is in error, please contact the reporting agency directly. \n\nPlease provide the requested documentation so we may complete the processing of your application."
   },
   {
     "id": "18",
-    "title": "Business License",
-    "body": "Hello, \n\nThank you for applying for a White Cap Credit Account. We look forward to doing business with you soon. I am currently processing your application and will need the following information to proceed. \n\nWe were unable to locate an active Business License for your company. Please provide documentation which shows your business is active and registered with the Secretary Of State. We can also accept the documentation that shows you were assigned a Tax EIN for your business. \n\nPlease provide the requested information (__/__/____) so I may complete the processing of your application. \n\nThank you and please let me know if you have any questions."
+    "title": "Business License Documentation Required",
+    "body": "Hello, \n\nThank you for applying for a credit account with us. We are currently processing your application and were unable to locate an active Business License for your company. Please provide documentation showing that your business is active and registered with the appropriate authorities. Alternatively, documentation that shows your business was assigned a Tax EIN can also be accepted. \n\nPlease provide the requested information so we may complete the processing of your application."
   },
   {
     "id": "19",
-    "title": "PG Credit Freeze",
-    "body": "Hello, \n\nThank you for applying for a White Cap Credit Account. We look forward to doing business with you soon. I am currently processing your application and will need the following information to proceed. \n\nThere appears to be a security freeze on the Personal Guarantor’s credit, which is preventing the processing of the Personal Guarantee’s Equifax Report. Please have this hold lifted and reply to this email once complete. \n\nPlease provide the requested information (__/__/____) so I may complete the processing of your application. \n\nThank you and please let me know if you have any questions."
+    "title": "Personal Guarantor Credit Freeze",
+    "body": "Hello, \n\nThank you for applying for a credit account with us. We are currently processing your application and found that there is a security freeze on the Personal Guarantor’s credit, which is preventing the processing of the report. Please have this hold lifted and reply to this email once complete. \n\nPlease provide the requested information so we may complete the processing of your application."
   },
   {
     "id": "20",
-    "title": "PG Signature",
-    "body": "Hello, \n\nThank you for applying for a White Cap Credit Account. We look forward to doing business with you soon. I am currently processing your application and will need the following information to proceed. \n\nPersonal Guarantor Signature Needed– The Personal Guarantor section of your application was missing a mandatory signature. Please see your credit application attached and have the Personal Guarantor provide their full legal signature and re-fill out the Social Security Number field (in place of the asterisks). \n\nPlease provide the requested information (__/__/____) so I may complete the processing of your application. \n\nThank you and please let me know if you have any questions."
+    "title": "Personal Guarantor Signature Needed",
+    "body": "Hello, \n\nThank you for applying for a credit account with us. We are currently processing your application and noticed that the Personal Guarantor section is missing a mandatory signature. Please see your credit application attached and have the Personal Guarantor provide their full legal signature and re-fill out any missing information. \n\nPlease provide the requested information so we may complete the processing of your application."
   },
   {
     "id": "21",
-    "title": "PG Invalid Info",
-    "body": "Hello, \n\nThank you for applying for a White Cap Credit Account. We look forward to doing business with you soon. I am currently processing your application and will need the following correction made to proceed. \n\nPersonal Guarantor Correction Needed– We were unable to populate the necessary credit reporting for the individual listed in the Personal Guarantor section of your application. The error we received stated that some of their information was invalid and/or insufficient. \n\nPlease provide the requested information (__/__/____) so I may complete the processing of your application. \n\nThank you and please let me know if you have any questions."
+    "title": "Correction Needed for Personal Guarantor Information",
+    "body": "Hello, \n\nThank you for applying for a credit account with us. We are currently processing your application and need a correction made to the Personal Guarantor information. We were unable to populate the necessary credit reporting due to invalid or missing data. Please review your application attached and correct the fields under the Personal Guarantor section and re-fill out any missing information. \n\nPlease provide the requested information so we may complete the processing of your application."
   },
   {
     "id": "22",
-    "title": "PG SSN",
-    "body": "Hello, \n\nThank you for applying for a White Cap Credit Account. We look forward to doing business with you soon. I am currently processing your application and will need the following correction made to proceed. \n\nPersonal Guarantor Social Security Number - The Personal Guarantor section of the application is missing a valid social security number. This information will be required for the account. \n\nOur email server is secure but if you don’t wish to provide the information in response to this email, you may call me directly at ###-###-####. \n\nPlease provide the requested information (__/__/____) so I may complete the processing of your application. \n\nThank you and please let me know if you have any questions."
+    "title": "Follow-up on Pending Documents",
+    "body": "Hello, \n\nWe are reaching out to follow up on the documents requested in our previous email. We have not yet received the required documents to proceed with your application/account setup. Please send the necessary paperwork at your earliest convenience to avoid delays. \n\nThank you for your prompt attention to this matter."
   },
   {
     "id": "23",
-    "title": "Shipping Address",
-    "body": "Hello, \n\nThank you for applying for a White Cap Credit Account. We look forward to doing business with you soon. I am currently processing your application and will need the following information to proceed. \n\nValid Shipping Address – We require a valid shipping address for the creation of a White Cap terms account. \n\nPlease provide the requested information (__/__/____) so I may complete the processing of your application. \n\nThank you and please let me know if you have any questions."
+    "title": "Acknowledgment of Account Closure Request",
+    "body": "Hello, \n\nWe have received your request to close your account. Please be aware that this process will permanently deactivate your account and any outstanding balances must be settled prior to closure. If you have any questions or need further assistance, please feel free to reach out. \n\nThank you for your business."
+  },
+  {
+    "id": "24",
+    "title": "Request for Updated Contact Information",
+    "body": "Hello, \n\nWe are in the process of updating our records and noticed that your contact information may be out of date. Please provide the most current details for your business, including any changes to your primary contact person, phone number, and email address. \n\nThank you for helping us keep our records accurate."
+  },
+  {
+    "id": "25",
+    "title": "Notification of System Maintenance",
+    "body": "Hello, \n\nPlease be advised that our system will undergo scheduled maintenance on [DATE] from [START_TIME] to [END_TIME]. During this period, access to your account may be temporarily unavailable. We apologize for any inconvenience this may cause and appreciate your understanding. \n\nIf you have any questions or concerns, please don't hesitate to contact us."
+  },
+  {
+    "id": "26",
+    "title": "Request for Bank Account Verification",
+    "body": "Hello, \n\nAs part of our security measures, we require verification of your bank account details to process transactions. Please provide a voided check or a bank statement that includes your account number and routing number. \n\nYour prompt response will help us ensure the security and accuracy of your transactions."
+  },
+  {
+    "id": "27",
+    "title": "Account Reactivation Confirmation",
+    "body": "Hello, \n\nYour request to reactivate your account has been approved. Your account is now active, and you can resume using our services. If you encounter any issues or have any questions, please don't hesitate to reach out. \n\nThank you for choosing to continue doing business with us."
+  },
+  {
+    "id": "28",
+    "title": "Notification of Account Hold",
+    "body": "Hello, \n\nWe regret to inform you that your account has been placed on hold due to [REASON]. This hold will remain in effect until the issue is resolved. Please contact us as soon as possible to discuss the necessary steps to lift the hold. \n\nThank you for your immediate attention to this matter."
+  },
+  {
+    "id": "29",
+    "title": "Request for Feedback on Recent Transaction",
+    "body": "Hello, \n\nWe value your feedback and would appreciate your input on your recent transaction with us. Your insights help us improve our services and better meet your needs. Please take a few minutes to complete the attached survey or respond to this email with your thoughts. \n\nThank you for your time and feedback."
+  },
+  {
+    "id": "30",
+    "title": "Annual Account Review Notice",
+    "body": "Hello, \n\nAs part of our annual review process, we are conducting a review of all active accounts. This review helps us ensure that we continue to meet your needs effectively. If you have any updates or changes to your account, please notify us by [DATE]. We appreciate your continued partnership and look forward to serving you in the year ahead."
+  },
+  {
+    "id": "31",
+    "title": "Notice of Policy Update",
+    "body": "Hello, \n\nWe are writing to inform you of recent updates to our policies that may affect your account. Please review the attached document for detailed information on the changes. If you have any questions or require further clarification, please don't hesitate to contact us. \n\nThank you for your attention to this important update."
   }
 ]
